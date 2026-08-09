@@ -119,6 +119,7 @@ let stars = 0;
 let forks = 0;
 const langBytes = {};
 for (const r of repos) {
+  if (r.fork) continue;
   stars += r.stargazers_count;
   forks += r.forks_count;
   const langs = await api(`/repos/${USER}/${r.name}/languages`);
