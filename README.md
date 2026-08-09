@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&multiline=false&width=640&lines=Hello+World+%3A%29;VR+Agent+%2F+AI+Voice+Engineer;C%2B%2B+%C2%B7+Unity+%C2%B7+Tauri;Building+things+that+hear+%26+speak" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&multiline=false&width=640&lines=Hello+World+%3A%29;VR+tinkerer+%2F+library+plumber;C%2B%2B+%C2%B7+Unity+%C2%B7+Tauri;Building+things+that+hear+%26+speak" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -9,13 +9,13 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  <code>VR / AI / 实时音频</code> 三栖开发者，专做「会听会说」的东西。<br />
+  <code>VR 玩家 + 调包选手</code>，算不上什么 AI 或音频开发者，主要是调一调库、调一调接口，把东西拼起来能跑就行。<br />
   目前在做 <b>aoiVR</b>：一个住在 SteamVR 手心里的 AI 语音助手 —— 全息手部面板、流式语音、同声传译，全跑在本地 C++ agent 里。
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VR%20Agent-C%2B%2B%20%2B%20Unity-00E5FF?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Realtime%20Audio-WebRTC%20AEC3-FF00FF?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/VR%20Side%20Project-C%2B%2B%20%2B%20Unity-00E5FF?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library%20Glue-WebRTC%20AEC3-FF00FF?style=flat-square&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/Tooling-MCP%20Server-7B68EE?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 </p>
 
