@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td><b><a href="https://github.com/keybodhi/MCP-webfetch">MCP-webfetch</a></b></td>
-    <td>走 SOCKS5 代理抓网页的 MCP server，灵感来自 opencode webfetch</td>
+    <td>对 opencode webfetch 工具的小改版：加上了走 SOCKS5 代理抓网页</td>
     <td align="center"><img src="https://img.shields.io/badge/-MCP-FF00FF?style=flat-square" /></td>
   </tr>
 </table>
