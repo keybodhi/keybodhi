@@ -20,8 +20,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keybodhi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0E17&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keybodhi&theme=synthwave&hide_border=true&bg_color=0D0E17&layout=donut" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/keybodhi/keybodhi/main/assets/stats.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/keybodhi/keybodhi/main/assets/top-langs.svg" alt="Top languages" />
   <img src="https://streak-stats.demolab.com/?user=keybodhi&theme=synthwave&hide_border=true&background=0D0E17" alt="GitHub streak" />
 </div>
 
