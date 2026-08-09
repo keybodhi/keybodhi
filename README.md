@@ -9,7 +9,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  <code>VR 玩家 + 调包选手</code>，日常调一调库、调一调接口，把东西拼起来能跑就行。<br />
+  <code>VR 玩家 + 调包选手</code>，日常调一调库、调一调接口。<br />
   目前在做 <b>aoiVR</b>：一个住在 SteamVR 手心里的 AI 语音助手 —— 全息手部面板、流式语音、同声传译，全跑在本地 C++ agent 里。
 </p>
 
