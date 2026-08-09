@@ -1,0 +1,24 @@
+<svg width="1440" height="280" viewBox="0 0 1440 280" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#FF00FF"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <linearGradient id="sub" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7B68EE"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#FF00FF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0D0E17" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1440" height="280" fill="#0D0E17"/>
+  <rect width="1440" height="280" fill="url(#glow)"/>
+  <text x="720" y="150" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="92" font-weight="700" fill="url(#neon)" letter-spacing="22">KEYBODHI</text>
+  <text x="720" y="200" text-anchor="middle" font-family="'Consolas', 'Courier New', monospace" font-size="22" fill="url(#sub)" letter-spacing="10">&gt; vr / ai / audio engineer _</text>
+  <path fill="#00E5FF" fill-opacity="0.22" d="M0,222L60,214C120,206,240,190,360,188C480,186,600,198,720,202C840,206,960,202,1080,192C1200,182,1320,166,1380,158L1440,150L1440,280L0,280Z"/>
+  <path fill="#FF00FF" fill-opacity="0.22" d="M0,250L60,244C120,238,240,226,360,224C480,222,600,232,720,236C840,240,960,238,1080,228C1200,218,1320,202,1380,196L1440,190L1440,280L0,280Z"/>
+  <path fill="#1A1B27" d="M0,268L60,262C120,256,240,244,360,240C480,236,600,242,720,244C840,246,960,242,1080,234C1200,226,1320,216,1380,212L1440,208L1440,280L0,280Z"/>
+</svg>
