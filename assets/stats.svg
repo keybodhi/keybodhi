@@ -14,7 +14,7 @@
   <rect x="1" y="1" width="380" height="236" rx="10" fill="#0D0E17" stroke="url(#border)" stroke-width="2"/>
   <text x="191" y="38" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="url(#neon)">GITHUB STATS</text>
 <text x="28" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#7f8db0">Stars</text>
-<text x="354" y="62" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#00E5FF">17</text>
+<text x="354" y="62" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#00E5FF">18</text>
 <text x="28" y="89" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#7f8db0">Forks</text>
 <text x="354" y="89" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#00E5FF">0</text>
 <text x="28" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#7f8db0">Public repos</text>
